@@ -75,7 +75,9 @@ Developed by:SHARAN S
 RegisterNumber:24900120
 
 **RTL Schematic**
-![Screenshot 2024-12-09 104226](https://github.com/user-attachments/assets/d2148395-a6bc-4d59-a71e-135866bb57f0)
+![Screenshot 2024-12-10 143735](https://github.com/user-attachments/assets/ebfd3350-c68e-42c5-9d07-74b4ec1c8286)
+![Screenshot 2024-12-10 143819](https://github.com/user-attachments/assets/5824c9df-1fe1-4b68-b5cb-72c8a6df26fa)
+
 
 **Output/TIMING Waveform**
 ![Screenshot 2024-12-09 104313](https://github.com/user-attachments/assets/83fe0f1d-9431-4eca-b796-c293c93ea5ad)
