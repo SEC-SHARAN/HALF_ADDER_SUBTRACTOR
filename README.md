@@ -84,4 +84,4 @@ RegisterNumber:24900120
 ![Screenshot 2024-12-09 104339](https://github.com/user-attachments/assets/d55f3414-ba7f-4b9d-8e99-7c96f4590c26)
 
 **Result:**
-The study of half adder subtractor are verified
+The study of half adder subtractor are verified.
